@@ -1,16 +1,14 @@
 # awesome-diffusion-on-vision
 
-## Important Survey Papers
+## Newest Survey Papers
 
 | Year | Title                                                        | Venue | Paper                                   | Code |
 | ---- | ------------------------------------------------------------ | ----- | --------------------------------------- | ---- |
 | 2023 | Diffusion Models: A Comprehensive Survey of Methods and Applications | Arxiv | [Link](https://github.com/YangLing0818) |      |
 
-
-
-
-
 ## Papers
+
+
 
 | Title                                                        | Venue | Code                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
