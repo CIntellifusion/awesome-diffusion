@@ -40,7 +40,7 @@ mainly about 3d diffusion applications and cross-modality applications, which ar
 | 2023     | [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988) | ICLR oral | [link](https://github.com/ashawkey/stable-dreamfusion)       |
 | 20221120 | [Auto Regressive latent diffusion model]([arxiv.org/abs/2211.10950](https://arxiv.org/abs/2211.10950)) | arxiv     | [link]([Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://paperswithcode.com/paper/synthesizing-coherent-story-with-auto)) |
 | 20230531 | [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://arxiv.org/abs/2305.20082) | arxiv     | [link](https://arxiv.org/abs/2305.20082)                     |
-| 20230413 | [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767#:~:text=To this end%2C we introduce a new framework%2C,undesired behavior%2C and subsequently assembles a streaming dataset.) | arxiv     | [link]()                                                     |
+| 20230413 | [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767) | arxiv     | [link]()                                                     |
 | 20230419 | [Anything-3D: Towards Single-view Anything Reconstruction in the Wild](https://paperswithcode.com/paper/anything-3d-towards-single-view-anything) | arxiv     | [link]()                                                     |
 
 
