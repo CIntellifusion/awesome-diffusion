@@ -26,7 +26,7 @@ mainly about 3d diffusion applications and cross-modality applications, which ar
 
 | Time     | Title                                                        | Venue     | Code                                                         |
 | -------- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| 20220407 | [Video Diffusion Models]([2204.03458v2.pdf (arxiv.org)](https://arxiv.org/pdf/2204.03458v2.pdf)) |           | [link](https://paperswithcode.com/paper/video-diffusion-models#code) |
+| 20220407 | [Video Diffusion Models](https://arxiv.org/pdf/2204.03458v2.pdf) |           | [link](https://paperswithcode.com/paper/video-diffusion-models#code) |
 | 20221222 | [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image) | arxiv     | [link]()                                                     |
 | 2023     | [MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://paperswithcode.com/paper/mm-diffusion-learning-multi-modal-diffusion) | CVPR      | [link](https://paperswithcode.com/paper/mm-diffusion-learning-multi-modal-diffusion#code) |
 | 2023     | [VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation](https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality) | CVPR      | [link](https://paperswithcode.com/paper/decomposed-diffusion-models-for-high-quality#code) |
