@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Models based on diffusion has shown fantastic performance on image generation and other tasks. Although each day comes several papers about diffusion, there are several major topics about it : cross modality , theory and engineering improvement, conditional generation. 
+Models based on diffusion has shown fantastic performance on image generation and other tasks. Although each day comes several papers about diffusion, there are several major topics about it :applications , theory and engineering improvement, conditional generation. 
 
 
 
@@ -20,9 +20,11 @@ In this survey of diffusion models, more than 300 papers were surveyed, but only
 
 ## Papers
 
-### video cross modality applications 
+### applications 
 
-| Time     | Titile                                                       | Venue     | Code                                                         |
+mainly about 3d diffusion applications and cross-modality applications, which are both very popular topics nowadays. 
+
+| Time     | Title                                                        | Venue     | Code                                                         |
 | -------- | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
 | 20220407 | [Video Diffusion Models]([2204.03458v2.pdf (arxiv.org)](https://arxiv.org/pdf/2204.03458v2.pdf)) |           | [link](https://paperswithcode.com/paper/video-diffusion-models#code) |
 | 20221222 | [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://paperswithcode.com/paper/tune-a-video-one-shot-tuning-of-image) | arxiv     | [link]()                                                     |
@@ -45,7 +47,7 @@ In this survey of diffusion models, more than 300 papers were surveyed, but only
 
 ### Conditional generation
 
-this part include text2image, few-shot , one-short and other researches about conditional generation.
+this part include text2image, few-shot , one-short and other researches about conditional generation. Generating images and videos under certain type of instructions has a prosperous future in commercial and daily uses. At the same time , this can be very difficult to satisfy people’s expectations. 
 
 | Time     | Title                                                        | Venue | Code                                                         |
 | -------- | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
@@ -74,21 +76,9 @@ One of the most famous paper that fit this part is [DDPM](https://paperswithcode
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### dataset
 
-some new dataset for diffusion
+some new dataset for diffusion models. 
 
 | dataset                                                      | paper                                      | github                                                       |
 | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
